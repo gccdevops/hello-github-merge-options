@@ -4,3 +4,5 @@
 - merge pull request (default)
 - squash and merge
 - rebash and merge
+
+# option - merge pull request
